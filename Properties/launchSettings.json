@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CSharpGuitarBug_Functions_updated": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7128",
+      "launchBrowser": false
+    }
+  }
+}
